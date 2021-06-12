@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9905785e-2230-4760-bc76-98e452f98a7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/gitlet/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/gitlet/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/gitlet/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/gitlet/Utils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1szqk7X8IEKqCJFWaqMqdD1XL9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest.binarytoRISC">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitConvertor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.binaryToSigned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitConvertor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="binaryToSigned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.binaryToUnsigned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitConvertor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="binaryToUnsigned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.binarytoRISC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitConvertor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="binarytoRISC" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.intToBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BitConvertor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="intToBinary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.binarytoRISC" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.intToBinary" />
+        <item itemvalue="JUnit.MainTest.binaryToUnsigned" />
+        <item itemvalue="JUnit.MainTest.binaryToSigned" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9905785e-2230-4760-bc76-98e452f98a7c" name="Default Changelist" comment="" />
+      <created>1621885906319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621885906319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom" timestamp="1622759708382">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1622759708382" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1622502066834" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center" timestamp="1622759708381">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1622759708381" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1622502066832" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left" timestamp="1622759708376">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1622759708376" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1622502066832" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right" timestamp="1622759708381">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1622759708381" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1622502066833" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom" timestamp="1622759708386">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1622759708386" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1622499415300" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center" timestamp="1622759708385">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1622759708385" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1622499415300" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left" timestamp="1622759708382">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1622759708382" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1622499415299" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right" timestamp="1622759708385">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1622759708385" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1622499415300" />
+    <state width="1398" height="267" key="GridCell.Tab.2.bottom" timestamp="1622759708387">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.2.bottom/0.23.1440.831@0.23.1440.831" timestamp="1622759708387" />
+    <state width="1398" height="267" key="GridCell.Tab.2.bottom/0.23.1440.832@0.23.1440.832" timestamp="1622499415302" />
+    <state width="1398" height="267" key="GridCell.Tab.2.center" timestamp="1622759708387">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.2.center/0.23.1440.831@0.23.1440.831" timestamp="1622759708387" />
+    <state width="1398" height="267" key="GridCell.Tab.2.center/0.23.1440.832@0.23.1440.832" timestamp="1622499415301" />
+    <state width="1398" height="267" key="GridCell.Tab.2.left" timestamp="1622759708387">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.2.left/0.23.1440.831@0.23.1440.831" timestamp="1622759708387" />
+    <state width="1398" height="267" key="GridCell.Tab.2.left/0.23.1440.832@0.23.1440.832" timestamp="1622499415301" />
+    <state width="1398" height="267" key="GridCell.Tab.2.right" timestamp="1622759708387">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.2.right/0.23.1440.831@0.23.1440.831" timestamp="1622759708387" />
+    <state width="1398" height="267" key="GridCell.Tab.2.right/0.23.1440.832@0.23.1440.832" timestamp="1622499415302" />
+    <state x="446" y="339" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1622049696967">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="446" y="339" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.831@0.23.1440.831" timestamp="1622049696967" />
+    <state x="499" y="172" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1622049671647">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="499" y="172" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.831@0.23.1440.831" timestamp="1622049671647" />
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1622050157867">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1622050157867" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
